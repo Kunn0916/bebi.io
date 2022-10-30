@@ -1,0 +1,91 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+   
+
+}
+
+body, html {
+    background-image: url(bebi1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    bac
+}
+
+.nav a{
+    float: left;
+    text-align: center;
+    margin: 14px 16px; 
+    text-decoration: none;
+    font-size: 25px;
+        background-color: antiquewhite;
+    padding: 5em;
+}
+
+nav {
+    overflow: hidden;
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url;
+}
+
+.nav ul{
+    text-align: center;
+    padding: 0em;
+    text-decoration: none;
+    
+}
+
+.nav li{
+    display: inline-block;
+}
+
+main > p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 150px;
+    color: black
+
+}
+
+aside{
+    float: right;
+    width: 33%;
+    padding: 0em;
+    margin-right: 150px;
+   
+    
+
+}
+
+article {
+    padding: 15em;
+    margin: 150px;
+    float: left;
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+
+main {
+    background-color: antiquewhite;
+    padding: 5em;
+    margin: 150px;
+
+}
+
+aside > img {
+    border-radius: 50%;
+}
+
+footer {
+    float: left;
+    text-align: center;
+    padding: 20em;
+}
+
